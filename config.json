@@ -5,5 +5,58 @@
   "interstitial_min_interval_ms": 60000,
   "interstitial_min_watch_ms": 5000,
   "rewarded_min_watch_ms": 15000,
-  "creatives": []
+  "creatives": [
+    {
+      "id": "starburst_banner_1",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://vachek-hooves.github.io/11427-StarburstSpace_house_ad/media/banner_celebration.jpg",
+      "icon_url": "",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY NOW",
+      "bundle_id": "",
+      "store_url": "",
+      "weight": 1
+    },
+    {
+      "id": "starburst_interstitial_1",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/11427-StarburstSpace_house_ad/media/interstitial_1.jpg",
+      "icon_url": "",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY NOW",
+      "bundle_id": "",
+      "store_url": "",
+      "weight": 1
+    },
+    {
+      "id": "starburst_interstitial_2",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/11427-StarburstSpace_house_ad/media/interstitial_2.jpg",
+      "icon_url": "",
+      "title": "",
+      "body": "",
+      "cta_text": "PLAY NOW",
+      "bundle_id": "",
+      "store_url": "",
+      "weight": 1
+    },
+    {
+      "id": "starburst_interstitial_3",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://vachek-hooves.github.io/11427-StarburstSpace_house_ad/media/interstitial_3.jpg",
+      "icon_url": "",
+      "title": "",
+      "body": "",
+      "cta_text": "DOWNLOAD NOW",
+      "bundle_id": "",
+      "store_url": "",
+      "weight": 1
+    }
+  ]
 }
